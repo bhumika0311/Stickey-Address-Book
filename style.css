@@ -1,0 +1,29 @@
+div ul{
+    margin: 10px 50px;
+}
+
+.main{
+    font-family: cursive;
+    width: 30px;
+    position: sticky;
+    top:0;
+    border: 5px rgba(0,0,255,0.2);
+    padding: 5px 15px;
+    margin: 10px; 
+    background-color: rgba(0,0,255,0.2);
+}
+
+li{
+    border: 2px solid black;
+    padding: 5px;
+    margin: 5px;
+    width: 25%;
+}
+
+#heading{
+    border: 5px solid rgb(255,255,255);
+    background-color: rgba(255,0,0,0.2);
+    font-size: 50pt;
+    font-family: 'Courier New', Courier, monospace;
+}
+
