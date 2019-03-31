@@ -1,2 +1,2 @@
-# Stickey-Address-Book
+# Sticky-Address-Book
 Sample Sticky Address Book 
